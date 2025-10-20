@@ -1,4 +1,4 @@
-### Mobile App Login & Signup UI Design (Rythmic)**
+### Mobile App Login & Signup UI Design (Rythmic)
 
 **Project Title:**
 🎵 *Rythmic – Music App Login & Signup UI Design*
@@ -22,12 +22,10 @@ This project demonstrates my understanding of **layout design**, **component con
 
 **📱 Designed Screens:**
 
-1. **Login Screen**
+1. **App Splash/Icon Page**
 
-   * Fields: Username/Email, Password
-   * Features: Remember Me, Forgot Password, Login Button
-   * Social Login: Facebook & Google
-   * Navigation link to Signup page
+   * App Name: **Rythmic**
+   * Mascot: Panda wearing headphones with neon blue glow
 
 2. **Signup Screen**
 
@@ -36,16 +34,35 @@ This project demonstrates my understanding of **layout design**, **component con
    * Social Signup: Facebook & Google
    * Navigation link to Login page
 
-3. **Forgot Password Screen**
+3. **Login Screen**
+
+   * Fields: Username/Email, Password
+   * Features: Remember Me, Forgot Password, Login Button
+   * Social Login: Facebook & Google
+   * Navigation link to Signup page
+     
+4.  **Forgot Password Screen**
 
    * Field: Phone Number
    * Button: Send SMS (to receive verification code)
 
-4. **App Splash/Icon Page**
+5. **Verification Page**
 
-   * App Name: **Rythmic**
-   * Mascot: Panda wearing headphones with neon blue glow
+   * Fields: 4-digit PIN code input boxes
+   * Features: “Confirmation Code” button,Countdown timer (e.g., 00:30),Resend confirmation code
+   * Navigation link to setpassword page
 
+6. **Set password screen**
+
+   * Fields: New password, Confirm Password
+   * Features: Reset Password Button, Password visibility toggle (eye icon)
+   * Navigation link to account created page
+  
+7. **Account Created Page**
+
+   * Fields: None
+   * Features: Success message: “Your account has been created successfully!!”, “Continue” button
+   
 ---
 
 **🎨 Color Scheme & Font Choice:**
